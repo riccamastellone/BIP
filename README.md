@@ -1,5 +1,10 @@
 # BIP Project
 
+# URGENTE!!!
+- finire sezione armax 
+- output algoritmo ibrido: quale sub teniamo?
+- inserire prestazioni nella tabella
+
 Report:
 https://www.overleaf.com/5557116zxcmng
 
