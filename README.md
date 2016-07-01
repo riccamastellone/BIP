@@ -1,7 +1,11 @@
 # BIP Project
 
-Report:
-https://www.overleaf.com/5557116zxcmng
+Andrea Bellotti - andrea1.bellotti@mail.polimi.it\
+Lorenzo Bisi - lorenzo.bisi@mail.polimi.it\
+Tommaso Carpi - tommaso.carpi@mail.polimi.it\
+Marco Edemanti - marco.edemanti@mail.polimi.it\
+Riccardo Mastellone - riccardo.mastellone@mail.polimi.it
 
-Presentation:
-https://docs.google.com/presentation/d/1kxHq5YB7gJtUDi4Bh89nYXO859i7HNAQmd-Q-bpZDoI/edit?usp=sharing
+
+[Report](docs/report.pdf)
+[Presentation](docs/presentation.pdf)
